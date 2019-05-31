@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="549aa57e-3702-4001-8320-4d5987e31634" name="Default Changelist" comment="" />
+    <list default="true" id="549aa57e-3702-4001-8320-4d5987e31634" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,8 +112,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../test/test0520.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="94" selection-start-line="94" selection-end-line="96" selection-end-column="57" />
+            <state relative-caret-position="596">
+              <caret line="95" column="1" selection-start-line="95" selection-start-column="1" selection-end-line="96" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -181,6 +183,9 @@
       <find>printinfo</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -209,11 +214,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -445,7 +451,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.09110629" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.09120521" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -678,8 +684,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../test/test0520.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="94" selection-start-line="94" selection-end-line="96" selection-end-column="57" />
+        <state relative-caret-position="596">
+          <caret line="95" column="1" selection-start-line="95" selection-start-column="1" selection-end-line="96" selection-end-column="55" />
         </state>
       </provider>
     </entry>
