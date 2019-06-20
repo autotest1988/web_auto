@@ -7,6 +7,8 @@
     <orderEntry type="jdk" jdkName="Python 3.6 (web_auto) (1)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="sort" />
+    <orderEntry type="module" module-name="test_product" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
